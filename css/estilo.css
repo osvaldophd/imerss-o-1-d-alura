@@ -1,0 +1,13 @@
+#menu{
+    background: whitesmoke;
+}
+#menu ul{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
